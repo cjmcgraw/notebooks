@@ -1,0 +1,14 @@
+**/tags
+**/tags.lock
+**/.local
+**/.conda
+**/.jupyter
+**/.ipython
+**/.npm
+**/.bash_history
+**/.cache
+**/.venv
+**/.virtualenv
+**/node_modules
+
+

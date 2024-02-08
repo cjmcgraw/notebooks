@@ -1,0 +1,7 @@
+data/
+**/.ipynb_checkpoints/
+**/.keras/
+**/.jupyter/
+**/.ipython/
+**/.npm/
+**/.local/
